@@ -1,0 +1,19 @@
+<svg width="414" height="234" viewBox="0 0 414 234" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="goesToRight">
+<g id="orangeLeft">
+<path id="Vector" d="M309 126H201V18H309V126Z" fill="#FF7053"/>
+</g>
+<g id="redLeft">
+<path id="Vector_2" d="M414 234H306V126H414V234Z" fill="#FF4852"/>
+</g>
+<g id="blankleft">
+<path id="Vector_3" d="M377 56H235V198H377V56ZM237 58H375V196H237V58Z" fill="#3F3D56"/>
+</g>
+<g id="leftLine">
+<line id="Line 20" y1="-1" x2="184" y2="-1" transform="matrix(-1 0 0 1 276 2)" stroke="black" stroke-width="2"/>
+<line id="Line 21" y1="-1" x2="184" y2="-1" transform="matrix(-1 0 0 1 184 72)" stroke="black" stroke-width="2"/>
+<line id="Line 22" y1="-1" x2="184" y2="-1" transform="matrix(-1 0 0 1 221 154)" stroke="black" stroke-width="2"/>
+<line id="Line 23" y1="-1" x2="184" y2="-1" transform="matrix(-1 0 0 1 284 222)" stroke="black" stroke-width="2"/>
+</g>
+</g>
+</svg>

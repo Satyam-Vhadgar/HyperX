@@ -1,0 +1,21 @@
+For Brand Logo
+Jost for Hyper  font-family: 'Jost', sans-serif;
+Saira for X     font-family: 'Saira', sans-serif;
+
+
+For Menu & Heading
+
+font-family: 'Poppins', sans-serif;
+
+
+
+Paragraph
+
+font-family: 'Montserrat', sans-serif;
+
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Jost&family=Montserrat:wght@300&family=Poppins&family=Saira&display=swap" rel="stylesheet">
+
+

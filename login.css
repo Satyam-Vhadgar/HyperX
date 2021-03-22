@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--background);
+}
+:root{
+    --background:#FDF8F4;
+    --orange:#FF6501;
+    --lightorange:#FCD7BD;
+    --butonColor:#0C1D37;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.logBrand a{
+    text-decoration: none;
+    color: black;
+}
+.logBrand a:hover{
+    color: var(--orange);
+}
+
+.formBg{
+    background-color: white;
+    border-radius: 25px;
+}
+.form-control{
+    border-radius: 50px;
+}
+.form-control:focus{
+   border-color: var(--orange);
+   box-shadow: none;
+}
+.signIn{
+    background-color: var(--orange);
+    color: white;
+    border-radius: 50px;
+}
+.signIn:hover{
+    background-color: black;
+    color: white;
+}
+.google{
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+.google:hover{
+    color: white;
+    background-color: black;
+}
+.forgot a{
+    text-decoration: none;
+    color: black;
+}
+.forgot a:hover{
+    color: var(--orange);
+}
